@@ -1,5 +1,5 @@
 <h1 align="center">Olá!</h1>
-<p> Me chamo Beatriz e seja bem-vindo(a)! Sou uma desenvolvedora apaixonada por tecnologia, com experiência principalmente em Python, Java, C, Lua, Solidity e desenvolvimento web com HTML, CSS, JavaScript e React.<p/>
+<p> Me chamo Beatriz e seja bem-vindo(a)! Sou uma desenvolvedora apaixonada por tecnologia, com experiência principalmente em Python, Java, C, Lua, Solidity e desenvolvimento web com HTML, CSS, JavaScript e React. Além disso, tenho experiência com automoções utilizando IA.<p/>
   
 ###
 
